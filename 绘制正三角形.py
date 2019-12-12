@@ -1,0 +1,11 @@
+import turtle 
+wg=turtle.Pen()
+wg.pencolor('green')
+wg.shape("turtle")
+wg.forward(300)
+wg.left(120)
+wg.forward(300)
+wg.left(120)
+wg.forward(300)
+wg.left(120)
+turtle.done()
